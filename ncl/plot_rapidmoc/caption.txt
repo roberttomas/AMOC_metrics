@@ -1,0 +1,9 @@
+The Atlantic overturning circulation (Sv) at 26.5 deg N calculated using the Roberts (2013) code applied to
+3 POP integrations and Rapid obervational estimates (black - solid).  The code calculates the circulation 
+using a methodology that approximates the same used in the Rapid array (short dashed) and using model 
+velocities (long dashed).  Shown are decadal means from high-resolution (HR - red) and 
+low-resolution (LR - blue) forced and a fully coupled high-resolution (ASD - green) simulations.  
+The forcing used for HR and LR is from JRA55, years 2000-2009 and the period for the obserations overlaps 
+the last 6 years of this decade.  The forced simulations are both weaker than the observations and this 
+partly attributable to the fact that they were both spun up from rest, whereas the the ASD simulation
+was started from WOCE climatology.
